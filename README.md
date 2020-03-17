@@ -9,5 +9,7 @@ This repository shows a set of Jupyter Notebooks demonstrating a variety of movi
 Here is the information related to different uploaded notebooks:
 
 EDA: Loading and processing the users, movies, and ratings data with some exploratory data analysis graphs.
+
 Content Based: Recommendation systems have been built using Correlation, Cosine Similarity and TFIDF approach.
+
 Collaborative Filtering: Memory based (User based and Item based) and Model based (through Matrix Factorization/SVD) recommendation systems have been built.
